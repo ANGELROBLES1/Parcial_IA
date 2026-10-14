@@ -109,7 +109,7 @@ Esto se ve en la ejecución de este punto (ver la explicación más abajo).
 | Cruce               | Un punto, probabilidad 0,8        |
 | Mutación            | Independiente por bit, prob. 0,05 |
 | Elitismo            | Se conserva el mejor individuo    |
-| Tamaño de población | 4 (constante)                     |
+| Tamaño de población | 4                     |
 | Generaciones        | 20                                |
 | Semilla             | 42                                |
 
@@ -127,7 +127,7 @@ Esto se ve en la ejecución de este punto (ver la explicación más abajo).
 `random.seed(42)` hace que los números aleatorios sean siempre los mismos, por lo que
 cualquier persona que ejecute el código obtiene exactamente el mismo resultado.
 
-### Cómo ejecutar
+### Ejecutar
 
 Se ejecuta localmente 
 
